@@ -1,0 +1,96 @@
+.quote {
+	margin: 0;
+	background: #eee;
+	padding: 1em;
+	border-radius: 1em;
+	font-size: 25px;
+  }
+  .quote figcaption,
+  .quote blockquote {
+	margin: 1em;
+  }
+
+.img {
+	width: 25%;
+	margin: 10px;
+	border-radius: 10px;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 2px 1px 5px #999999; /* Цвет и размер тени */
+}
+
+.img1 {
+
+	width: 80%;
+	margin: 10px;
+	border-radius: 10px;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 2px 1px 5px #999999; /* Цвет и размер тени */
+}
+
+.formm {
+	font-size: 18px;
+	margin: 10px;
+	width: 500px;
+	border-radius: 10px;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 1px 1px 3px #999999;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.formm input{
+	border-radius: 10px;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 1px 1px 3px #999999;
+	width: 290px;
+}
+
+.formm textarea{
+	border-radius: 10px;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.input2 {
+    margin: 10px;
+    border-radius: 10px;  /* Скругление углов изображения */
+    border: 5px solid #fff; /* Цвет и ширину рамки */
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.new {
+    font-size: 30px;
+    text-align: center;
+}
+
+.flexs {
+	justify-content: space-between;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flexs1 {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.title-1 {
+	align-items: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.adm {
+	margin-right: 100px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.portfolio-title {
+    margin-bottom: 70px;
+    text-align: center;
+}
